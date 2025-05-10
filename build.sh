@@ -1,0 +1,1 @@
+g++ main.cpp -o 3DOPMA -lGL -lGLU -lglut && ./3DOPMA
