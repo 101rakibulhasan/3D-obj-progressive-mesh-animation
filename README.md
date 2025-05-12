@@ -11,10 +11,16 @@ By loading .OBJ files, the system parses the vertex, edge, and face data and inc
 
 The purpose of this project is to explore and demonstrate real-time procedural animation by manipulating mesh elements (vertices, edges, and faces) directly on the GPU using vertex shaders. This project showcases how mathematical functions—such as trigonometric waveforms—can be applied to mesh geometry to create dynamic, organic motion without relying on traditional keyframe animation. It serves both as a technical demonstration of shader-based animation and as an educational tool for understanding GPU-accelerated graphics programming and real-time rendering techniques.
 
+Requirements:
+1. Freeglut
+2. MinGW C++ Compiler
+3. Opengl library
 
 Models License:
 Cesar : https://skfb.ly/ZZBB (CC Attribution)
+
 Charging Bull : https://skfb.ly/5lji3gfd0b (CC Attribution-ShareAlike)
+
 Robo Face : https://skfb.ly/oKtSD (CC Attribution)
 
 The following models has been used for testing the programs capability, not for redistribution. This program will support any 3D Obj format so we could delete and use other for testing if we face issue.
